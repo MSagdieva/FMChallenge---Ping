@@ -1,0 +1,21 @@
+.main {
+	&__title {
+
+    }
+
+.title { }
+.text { }
+.subscribe-form {
+    display: flex;
+    justify-content: center;
+ }
+.email { }
+.btn { }
+}
+.illustration {
+    width: 100%;
+	&__image { 
+        width:100%;
+        object-fit: contain;
+    }
+}
