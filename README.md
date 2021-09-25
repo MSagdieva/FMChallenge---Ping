@@ -32,13 +32,13 @@ Users should be able to:
 
 ### Screenshot
 
-[](./Screenshot Ping - Main.png)
+![ScreenShot](http://github.com/MSagdieva/FMChallenge---Ping/blob/b69b0c5bda17655750c0593b7cdde49e0c44b8a4/Screenshot%20Ping%20-%20Main.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MSagdieva/FMChallenge---Ping.git)
-- Live Site URL: [Add live site URL here](https://fmc-hallenge-ping-msagdieva.vercel.app)
+- Solution URL: [Solution](https://github.com/MSagdieva/FMChallenge---Ping.git)
+- Live Site URL: [Live Site](https://fmc-hallenge-ping-msagdieva.vercel.app)
 
 ## My process
 
