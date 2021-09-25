@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenShot](http://github.com/MSagdieva/FMChallenge---Ping/blob/b69b0c5bda17655750c0593b7cdde49e0c44b8a4/Screenshot%20Ping%20-%20Main.png)
+![ScreenShot](https://raw.githubusercontent.com/MSagdieva/FMChallenge---Ping/main/ScreenshotPing.png)
 
 
 ### Links
