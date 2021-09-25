@@ -3,7 +3,8 @@
     position:relative;
     z-index: 1000;
     width:100%;
-    margin: 50px 0;
+    margin: 90px 0 60px 0;
+
     &__content {
         text-align: center;
         width:100%;
@@ -14,12 +15,4 @@
         left: 40px;
         top: 11px;
     }
-    &__icon-image{
-        @include adaptive-value('width', 140, 80, 0);
-        }
-    
-    &__menu{
-        
-    }
-
 }

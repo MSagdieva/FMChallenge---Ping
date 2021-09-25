@@ -1,11 +1,13 @@
 <main class="main _container">
     <h1 class="main__title title">We are launching <b>soon!</b></h1>
     <p class="text">Subscribe and get notified</p>
-    <form class="subscribe-form">
+    <form class="subscribe-form" novalidate>
+        <label class="email-info">
         <input type="email" class="email" placeholder="Your email address...">
-        <input type="submit" class="btn" value="Notify Me">
+        <span class="text error-message">Please provide a valid email</span>
+        </label>
+        <button type="submit" class="btn subscribe-form__button">Notify Me</button>
     </form>
-    <i class="fab fa-instagram"></i>
     <div class="illustration">
         <img src="img/illustration-dashboard.png" alt="illustration-dashboard" class="illustration__image">
         

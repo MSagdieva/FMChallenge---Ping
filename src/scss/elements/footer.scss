@@ -1,7 +1,7 @@
 .footer{
     &__content{
         color:#fff;
-        font-family: $SecondFontFamily;
+        font-family: $FontFamily;
         font-weight: 300;
     }
     &__container {
@@ -25,6 +25,13 @@
         border-radius: 50%;
         width: 32px;
         height:32px;
+        transition: all 0.3s;
+        &:hover{
+            background-color: hsl(223, 87%, 63%);
+        }
+        &:hover .icon {
+            color:$white;
+        }
     }
     }
     .icon { 
@@ -32,16 +39,17 @@
         top:50%;
         left:50%;
         transform: translate(-50%, -50%);
-        height: 16px;
-        width: 16px;
-        fill:hsl(223, 87%, 63%);
-        stroke:hsl(223, 87%, 63%);
+        font-size: 16px;
+        color:hsl(223, 87%, 63%);
+        transition: all 0.3s;
     }
-
 }
 .copyright {
-    color:$black;
+    color:$VeryDarkBlue;
     display:block;
     padding:20px 0;
     text-align: center;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: $FontFamily;
 }

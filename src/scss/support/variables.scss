@@ -1,5 +1,5 @@
 // Fonts
-$fontFamily:"Oswald";
+$FontFamily: "Libre Franklin";
 $SecondFontFamily: "Open Sans";
 
 // Container
@@ -12,8 +12,10 @@ $md3: 768;
 $md4: 320;
 
 //Colors
-$primary: #fff;
-$secondary: #fff;
-$accent: #fff;
+$primary: hsl(223, 87%, 63%);
+$secondaryBlue: hsl(223, 100%, 88%);
+$secondaryRed: hsl(354, 100%, 66%);
+$VeryDarkBlue: hsl(209, 33%, 12%);
+$gray: hsl(0, 0%, 59%);
 $black: #000;
 $white: #fff;
